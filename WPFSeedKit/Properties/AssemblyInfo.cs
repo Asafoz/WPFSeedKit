@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("WPF Starter Kit")]
 [assembly: AssemblyDescription("Seed project for using WPF project with the PRISM MEF and the MVVM.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Bolareshet (www.linkedin.com/in/asafozery)")]
 [assembly: AssemblyProduct("WPF Seed Project")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
